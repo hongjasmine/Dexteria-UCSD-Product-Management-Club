@@ -4,7 +4,7 @@
 Analyzed user engagement trends in Dexteria, a rehabilitation app, to uncover opportunities to improve motor and cognitive skill 
      development outcomes 
 
-     Dexteria.ipynb
+     https://github.com/hongjasmine/Dexteria-UCSD-Product-Management-Club/blob/main/Dexteria.ipynb
      
 Developed interactive Tableau dashboards to track engagement patterns and identify user drop-off points, enabling data-informed
      product decisions
